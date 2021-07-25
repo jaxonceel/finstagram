@@ -1,6 +1,7 @@
 header {
     background-color: #244751;
     color: #E8FDFF;
+    padding-left: 50px;
   }
 
 body {
@@ -15,10 +16,6 @@ main {
     background-color: white;
     padding: 16px;
   }
-
-.my-class-name { }
-
-#my-unique-id { }
 
 .finstagram-post {
     margin-bottom: 48px;
